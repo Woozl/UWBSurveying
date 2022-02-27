@@ -40,6 +40,8 @@ Drivers/STM32H745I-DISCO/stm32h745i_discovery_ts.o: \
  ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_fmc.h \
  ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h \
  ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
+ ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
+ ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
  C:/TouchGFXProjects/UWBSurveying/Drivers/BSP/STM32H745I-DISCO/stm32h745i_discovery_errno.h \
  c:\touchgfxprojects\uwbsurveying\drivers\bsp\components\ft5336\ft5336.h \
  c:\touchgfxprojects\uwbsurveying\drivers\bsp\components\ft5336\ft5336_reg.h \
@@ -126,6 +128,10 @@ C:/TouchGFXProjects/UWBSurveying/Drivers/BSP/STM32H745I-DISCO/stm32h745i_discove
 ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h:
 
 ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
+
+../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
+
+../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 
 C:/TouchGFXProjects/UWBSurveying/Drivers/BSP/STM32H745I-DISCO/stm32h745i_discovery_errno.h:
 

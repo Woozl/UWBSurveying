@@ -38,6 +38,8 @@ CM7/TouchGFX/build/STM32H745I_DISCO/Drivers/BSP/STM32H745I-DISCO/stm32h745i_disc
  Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_fmc.h \
  Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h \
  Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
+ Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
+ Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
  Drivers/BSP/STM32H745I-DISCO/stm32h745i_discovery_errno.h \
  Drivers/BSP/STM32H745I-DISCO/../Components/mt48lc4m32b2/mt48lc4m32b2.h \
  Drivers/BSP/STM32H745I-DISCO/../Components/mt48lc4m32b2/mt48lc4m32b2_conf.h
@@ -121,6 +123,10 @@ Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_fmc.h:
 Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim.h:
 
 Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h:
+
+Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h:
+
+Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 
 Drivers/BSP/STM32H745I-DISCO/stm32h745i_discovery_errno.h:
 
