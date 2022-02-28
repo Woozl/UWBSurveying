@@ -36,7 +36,7 @@
 .metadata/
 
 # vscode
-./vscode
+.vscode/
 
 # Vagrant directory
 .vagrant/

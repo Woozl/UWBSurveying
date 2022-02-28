@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.jsx": "javascriptreact",
-        "main_user.h": "c",
-        "cmsis_os.h": "c",
-        "main.h": "c"
-    }
-}
