@@ -30,10 +30,10 @@
 *.png
 
 # Eclipse CDT project files
-.cproject
-.project
-.settings/
-.metadata/
+# .cproject
+# .project
+# .settings/
+# .metadata/
 
 # vscode
 .vscode/
@@ -42,8 +42,8 @@
 .vagrant/
 
 # Include makefiles
-!Makefile
-*~
+# !Makefile
+# *~
 
 # Libraries
-/lib
+# /lib

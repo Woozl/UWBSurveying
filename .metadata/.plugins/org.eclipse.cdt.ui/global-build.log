@@ -1,0 +1,38 @@
+19:45:49 **** Incremental Build of configuration Debug for project stm32h745i_disco_CM7 ****
+make -j12 all 
+arm-none-eabi-g++ "C:/TouchGFXProjects/UWBSurveying/CM7/TouchGFX/target/TouchGFXGPIO.cpp" -mcpu=cortex-m7 -std=gnu++14 -g3 -DDEBUG -DCORE_CM7 -DUSE_HAL_DRIVER -DSTM32H745xx -c -I../../../CM7/Core/Inc -I../../../CM7/TouchGFX/App -I../../../CM7/TouchGFX/target/generated -I../../../CM7/TouchGFX/target -I../../../Drivers/STM32H7xx_HAL_Driver/Inc -I../../../Drivers/STM32H7xx_HAL_Driver/Inc/Legacy -I../../../Middlewares/Third_Party/FreeRTOS/Source/include -I../../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../../../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I../../../Drivers/CMSIS/Device/ST/STM32H7xx/Include -I../../../Drivers/CMSIS/Include -I../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include -I../../../Drivers/BSP/STM32H745I-DISCO -I../../../Drivers/BSP/Components/Common -I../../../Drivers/BSP/Components/mt25tl01g -I../../../Drivers/BSP/Components/ft5336 -I../../../Drivers/BSP/Components/mt48lc4m32b2 -I../../CM7/../../CM7/TouchGFX/generated/fonts/include -I../../CM7/../../CM7/TouchGFX/generated/gui_generated/include -I../../CM7/../../CM7/TouchGFX/generated/images/include -I../../CM7/../../CM7/TouchGFX/generated/texts/include -I../../CM7/../../CM7/TouchGFX/generated/videos/include -I../../CM7/../../CM7/TouchGFX/gui/include -O0 -ffunction-sections -fdata-sections -fno-exceptions -fno-rtti -fno-use-cxa-atexit -Wall -femit-class-debug-always -fstack-usage -MMD -MP -MF"Application/User/TouchGFX/target/TouchGFXGPIO.d" -MT"Application/User/TouchGFX/target/TouchGFXGPIO.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/TouchGFX/target/TouchGFXGPIO.o"
+arm-none-eabi-g++ -o "stm32h745i_disco_CM7.elf" @"objects.list"  -l:libtouchgfx-float-abi-hard.a -mcpu=cortex-m7 -T"C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE\CM7\STM32H745XIHX_FLASH.ld" --specs=nosys.specs -Wl,-Map="stm32h745i_disco_CM7.map" -Wl,--gc-sections -static -LC:/dev/at_dev/at/stm32h745i_disco/STM32H745I_DISCO/CM7/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc -LC:/git/stm32h745i_disco/STM32H745I_DISCO/CM7/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc -LC:/TouchGFXProjects/UWBSurveying/CM7/Middlewares/ST/touchgfx/lib/core/cortex_m7/gcc --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: stm32h745i_disco_CM7.elf
+ 
+arm-none-eabi-size   stm32h745i_disco_CM7.elf 
+arm-none-eabi-objdump -h -S  stm32h745i_disco_CM7.elf  > "stm32h745i_disco_CM7.list"
+arm-none-eabi-objcopy  -O ihex  stm32h745i_disco_CM7.elf  "stm32h745i_disco_CM7.hex"
+   text	   data	    bss	    dec	    hex	filename
+ 195752	    356	  54624	 250732	  3d36c	stm32h745i_disco_CM7.elf
+Finished building: default.size.stdout
+ 
+Finished building: stm32h745i_disco_CM7.hex
+ 
+Finished building: stm32h745i_disco_CM7.list
+ 
+19:46:04 **** Incremental Build of configuration Debug for project stm32h745i_disco_CM7 ****
+make -j12 all 
+arm-none-eabi-size   stm32h745i_disco_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 195752	    356	  54624	 250732	  3d36c	stm32h745i_disco_CM7.elf
+Finished building: default.size.stdout
+ 
+23:20:22 **** Incremental Build of configuration Debug for project stm32h745i_disco_CM7 ****
+make -j12 all 
+arm-none-eabi-size   stm32h745i_disco_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 195752	    356	  54624	 250732	  3d36c	stm32h745i_disco_CM7.elf
+Finished building: default.size.stdout
+ 
+11:20:45 **** Build of configuration Debug for project stm32h745i_disco_CM7 ****
+make -j12 all 
+arm-none-eabi-size   stm32h745i_disco_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 195752	    356	  54624	 250732	  3d36c	stm32h745i_disco_CM7.elf
+Finished building: default.size.stdout
+ 
