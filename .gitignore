@@ -35,6 +35,9 @@
 .settings/
 .metadata/
 
+# vscode
+./vscode
+
 # Vagrant directory
 .vagrant/
 
