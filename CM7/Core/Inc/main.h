@@ -34,6 +34,7 @@ extern "C" {
 /* USER CODE BEGIN Includes */
 #include <string.h>
 #include <stdio.h>
+#include "port.h"
 /* USER CODE END Includes */
 
 /* Exported types ------------------------------------------------------------*/
@@ -59,10 +60,14 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define GREEN_LED_2_Pin GPIO_PIN_3
-#define GREEN_LED_2_GPIO_Port GPIOD
+#define DW_NSS_Pin GPIO_PIN_4
+#define DW_NSS_GPIO_Port GPIOB
+#define DW_IRQn_Pin GPIO_PIN_3
+#define DW_IRQn_GPIO_Port GPIOE
 #define BLUE_BUTTON_Pin GPIO_PIN_13
 #define BLUE_BUTTON_GPIO_Port GPIOC
+#define DW_RESET_Pin GPIO_PIN_8
+#define DW_RESET_GPIO_Port GPIOI
 #define RED_LED_Pin GPIO_PIN_13
 #define RED_LED_GPIO_Port GPIOI
 #define VCP_TX_Pin GPIO_PIN_10

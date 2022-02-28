@@ -326,6 +326,12 @@
           <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_qspi.c</name>
         </file>
         <file>
+          <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c</name>
+        </file>
+        <file>
+          <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c</name>
+        </file>
+        <file>
           <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_tim.c</name>
         </file>
         <file>
@@ -512,6 +518,12 @@
             </file>
             <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_qspi.c</name>
+            </file>
+            <file>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi.c</name>
+            </file>
+            <file>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_spi_ex.c</name>
             </file>
             <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_tim.c</name>
