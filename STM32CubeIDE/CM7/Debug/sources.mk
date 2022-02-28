@@ -32,6 +32,7 @@ CPP_DEPS :=
 SUBDIRS := \
 Application/User/Core/decadriver \
 Application/User/Core \
+Application/User/Core/usb \
 Application/User/Startup \
 Application/User/TouchGFX/App \
 Application/User/TouchGFX/target \

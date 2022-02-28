@@ -71,13 +71,14 @@ TextArea.hpp:76:10:void touchgfx::TextArea::setAlpha(uint8_t)	16	static
 TextArea.hpp:39:7:touchgfx::TextArea::~TextArea()	16	static
 TextArea.hpp:39:7:virtual touchgfx::TextArea::~TextArea()	16	static
 TextAreaWithWildcard.hpp:37:5:touchgfx::TextAreaWithOneWildcard::TextAreaWithOneWildcard()	16	static
+TextAreaWithWildcard.hpp:58:10:void touchgfx::TextAreaWithOneWildcard::setWildcard(const UnicodeChar*)	16	static
 View.hpp:36:7:touchgfx::View<Screen1Presenter>::~View()	16	static
 View.hpp:36:7:virtual touchgfx::View<Screen1Presenter>::~View()	16	static
 Screen1ViewBase.hpp:22:13:Screen1ViewBase::~Screen1ViewBase()	16	static
 Screen1ViewBase.hpp:22:13:virtual Screen1ViewBase::~Screen1ViewBase()	16	static
-Screen1ViewBase.cpp:8:1:Screen1ViewBase::Screen1ViewBase()	368	static
-Screen1ViewBase.cpp:92:6:virtual void Screen1ViewBase::setupScreen()	16	static
-Screen1ViewBase.cpp:97:6:void Screen1ViewBase::flexButtonCallbackHandler(const touchgfx::AbstractButtonContainer&)	16	static
+Screen1ViewBase.cpp:8:1:Screen1ViewBase::Screen1ViewBase()	376	static
+Screen1ViewBase.cpp:100:6:virtual void Screen1ViewBase::setupScreen()	16	static
+Screen1ViewBase.cpp:105:6:void Screen1ViewBase::flexButtonCallbackHandler(const touchgfx::AbstractButtonContainer&)	16	static
 View.hpp:39:5:touchgfx::View<T>::View() [with T = Screen1Presenter]	16	static
 ClickButtonTrigger.hpp:35:7:touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	16	static
 ClickButtonTrigger.hpp:35:7:virtual touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	16	static

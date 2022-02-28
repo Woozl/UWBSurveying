@@ -8633,3 +8633,766 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-02-28 11:20:27.412
 !MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2022-02-28 12:17:14.651 -----------------------------------------------
+eclipse.buildId=Version 1.8.0
+java.version=11.0.11
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2022-02-28 12:17:25.971
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2022-02-28 12:17:26.034
+!MESSAGE Log4j initialized with config file C:\TouchGFXProjects\UWBSurveying\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2022-02-28 12:17:32.929
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:28.574
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:28.574
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:28.574
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.658
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.658
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.658
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.680
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.680
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.680
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.684
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.684
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.684
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.687
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.687
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.687
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.691
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.691
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.691
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.720
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.720
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.720
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.725
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.725
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.725
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.731
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.731
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.731
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.738
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.738
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.738
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.743
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.743
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.743
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.747
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.747
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.747
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.752
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.752
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.752
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.756
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.756
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.756
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.760
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.760
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.760
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.764
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.764
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.764
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.768
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.768
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.768
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.772
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.772
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.772
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.776
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.776
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.776
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.780
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.780
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.780
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.784
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.784
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.784
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.789
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.789
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.789
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.792
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.792
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.792
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.798
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.798
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.798
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.811
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.811
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.811
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.818
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.818
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.818
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.824
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.824
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.824
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.830
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.830
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.830
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.836
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.836
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.836
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.841
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.841
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.841
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.846
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.846
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.846
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.851
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.851
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.851
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.855
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.856
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.856
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.860
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.860
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.860
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.865
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.865
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.865
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.869
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.869
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.869
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.874
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.874
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.874
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.878
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.878
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.878
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.883
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.883
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.883
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.888
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.888
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.888
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.895
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.895
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.895
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.902
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.902
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.902
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.908
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.908
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.908
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.913
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.913
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.913
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.920
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.920
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.920
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.932
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.932
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.932
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.939
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.939
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.939
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.946
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.946
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.946
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.951
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.952
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.952
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.957
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.957
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.957
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.965
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.965
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.965
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.972
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.972
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.972
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.991
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.991
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.991
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:57.996
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:57.996
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:57.996
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.001
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.001
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.001
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.007
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.007
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.007
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.013
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.013
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.013
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.018
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.018
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.018
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.026
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.026
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.026
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.032
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.032
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.032
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.036
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.036
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.036
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.043
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.043
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.043
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.048
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.048
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.048
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.054
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.054
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.054
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.059
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.059
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.059
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.064
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.064
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.064
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.069
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.069
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.069
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.077
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.077
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.077
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.087
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.087
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.087
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.092
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.092
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.092
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.097
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.097
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.097
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.103
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.103
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.103
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.109
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.109
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.109
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.114
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.114
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.114
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.119
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.119
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.119
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.124
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.124
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.124
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.129
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.129
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.129
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.136
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.136
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.136
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.140
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.140
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.140
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.143
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.143
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.143
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.148
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.148
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.148
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.152
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.152
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.152
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.156
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.156
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.156
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.160
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.160
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.160
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.165
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.166
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.166
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.172
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.172
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.172
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.177
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.177
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.177
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.182
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.182
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.182
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.186
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.186
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.186
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.190
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.190
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.190
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.194
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.194
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.194
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.199
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.199
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.199
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.203
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.203
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.203
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.208
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.208
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.208
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.215
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.216
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.216
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.220
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.220
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.220
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.226
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.226
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.226
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.233
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.233
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.233
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.239
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.239
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.239
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.257
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.257
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.257
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.260
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.260
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.260
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.264
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.264
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.264
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.core.resources 4 77 2022-02-28 12:35:58.268
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2022-02-28 12:35:58.268
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2022-02-28 12:35:58.268
+!MESSAGE C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE overlaps the location of another project: 'STM32CubeIDE'
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-02-28 12:47:53.423
+!MESSAGE Indexed 'stm32h745i_disco_CM7' (103 sources, 377 headers) in 16 sec: 34,221 declarations; 152,743 references; 1 unresolved inclusions; 1 syntax errors; 4 unresolved names (0.0021%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-02-28 12:53:39.716
+!MESSAGE Indexed 'stm32h745i_disco_CM7' (106 sources, 388 headers) in 17.5 sec: 34,728 declarations; 153,440 references; 1 unresolved inclusions; 1 syntax errors; 4 unresolved names (0.0021%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-02-28 12:55:11.021
+!MESSAGE Indexed 'stm32h745i_disco_CM7' (103 sources, 377 headers) in 13.1 sec: 34,221 declarations; 152,743 references; 1 unresolved inclusions; 1 syntax errors; 4 unresolved names (0.0021%)
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2022-02-28 13:29:33.505
+!MESSAGE Failed to check relative, returning possibly relative path: C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE\CM7\Debug/"" literal was "${workspace_loc:/Drivers/BSP/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2022-02-28 13:29:33.509
+!MESSAGE Failed to check relative, returning possibly relative path: C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE\CM7\Debug/"" literal was "${workspace_loc:/Drivers/BSP/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2022-02-28 13:29:33.510
+!MESSAGE Failed to check relative, returning possibly relative path: C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE\CM7\Release/"" literal was "${workspace_loc:/Drivers/BSP/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2022-02-28 13:29:33.512
+!MESSAGE Failed to check relative, returning possibly relative path: C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE\CM7\Release/"" literal was "${workspace_loc:/Drivers/BSP/Components/Common}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2022-02-28 13:29:33.514
+!MESSAGE Failed to check relative, returning possibly relative path: C:\TouchGFXProjects\UWBSurveying\STM32CubeIDE\CM7\Release/"" literal was "${workspace_loc:/Drivers/BSP/Components/Common}"
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-02-28 17:39:16.421
+!MESSAGE Indexed 'stm32h745i_disco_CM7' (117 sources, 389 headers) in 15.3 sec: 35,743 declarations; 163,261 references; 0 unresolved inclusions; 1 syntax errors; 4 unresolved names (0.002%)

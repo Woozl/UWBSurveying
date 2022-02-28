@@ -43,6 +43,9 @@ Application/User/Core/main.o: \
  ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_tim_ex.h \
  ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart.h \
  ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h \
+ ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pcd.h \
+ ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usb.h \
+ ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pcd_ex.h \
  ../../../CM7/Core/Inc/stdio.h ../../../CM7/Core/Inc/port.h \
  ../../../CM7/Core/Inc/compiler.h \
  ../../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os.h \
@@ -57,6 +60,8 @@ Application/User/Core/main.o: \
  ../../../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
  ../../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h \
  ../../../CM7/TouchGFX/App/app_touchgfx.h \
+ ../../../CM7/Core/Inc/usb_device.h ../../../CM7/Core/Inc/usbd_def.h \
+ ../../../CM7/Core/Inc/usbd_conf.h ../../../CM7/Core/Inc/main.h \
  ../../../CM7/Core/Inc/main_user.h
 
 ../../../CM7/Core/Inc/main.h:
@@ -145,6 +150,12 @@ Application/User/Core/main.o: \
 
 ../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_uart_ex.h:
 
+../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pcd.h:
+
+../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_usb.h:
+
+../../../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_hal_pcd_ex.h:
+
 ../../../CM7/Core/Inc/stdio.h:
 
 ../../../CM7/Core/Inc/port.h:
@@ -174,5 +185,13 @@ Application/User/Core/main.o: \
 ../../../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2/cmsis_os2.h:
 
 ../../../CM7/TouchGFX/App/app_touchgfx.h:
+
+../../../CM7/Core/Inc/usb_device.h:
+
+../../../CM7/Core/Inc/usbd_def.h:
+
+../../../CM7/Core/Inc/usbd_conf.h:
+
+../../../CM7/Core/Inc/main.h:
 
 ../../../CM7/Core/Inc/main_user.h:

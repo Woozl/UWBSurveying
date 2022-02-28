@@ -164,9 +164,6 @@
           <group>
             <name>STM32H7xx_HAL_Driver</name>
             <file>
-              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c</name>
-            </file>
-            <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc.c</name>
             </file>
             <file>
@@ -198,6 +195,9 @@
             </file>
             <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr_ex.c</name>
+            </file>
+            <file>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c</name>
             </file>
             <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal.c</name>
@@ -413,6 +413,8 @@
             <include>CM7\TouchGFX\App</include>
             <include>CM7\TouchGFX\target\generated</include>
             <include>CM7\TouchGFX\target</include>
+            <include>CM7\USB_DEVICE\App</include>
+            <include>CM7\USB_DEVICE\Target</include>
             <include>Drivers/BSP/Components/Common</include>
             <include>Drivers/BSP/STM32H745I-DISCO</include>
             <include>Drivers\STM32H7xx_HAL_Driver\Inc</include>
@@ -420,6 +422,8 @@
             <include>Middlewares\Third_Party\FreeRTOS\Source\include</include>
             <include>Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2</include>
             <include>Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F</include>
+            <include>Middlewares\ST\STM32_USB_Device_Library\Core\Inc</include>
+            <include>Middlewares\ST\STM32_USB_Device_Library\Class\MSC\Inc</include>
             <include>Drivers\CMSIS\Device\ST\STM32H7xx\Include</include>
             <include>Drivers\CMSIS\Include</include>
             <include>Drivers/BSP/Components/Common</include>
@@ -448,13 +452,13 @@
           <group>
             <name>STM32H7xx_HAL_Driver</name>
             <file>
-              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c</name>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pcd.c</name>
             </file>
             <file>
-              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_crc.c</name>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pcd_ex.c</name>
             </file>
             <file>
-              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_crc_ex.c</name>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_ll_usb.c</name>
             </file>
             <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_rcc.c</name>
@@ -490,6 +494,9 @@
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_pwr_ex.c</name>
             </file>
             <file>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_cortex.c</name>
+            </file>
+            <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal.c</name>
             </file>
             <file>
@@ -500,6 +507,12 @@
             </file>
             <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_exti.c</name>
+            </file>
+            <file>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_crc.c</name>
+            </file>
+            <file>
+              <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_crc_ex.c</name>
             </file>
             <file>
               <name>Drivers\STM32H7xx_HAL_Driver\Src\stm32h7xx_hal_dma2d.c</name>
@@ -578,6 +591,30 @@
             </file>
             <file>
               <name>Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F\port.c</name>
+            </file>
+          </group>
+          <group>
+            <name>STM32_USB_Device_Library</name>
+            <file>
+              <name>Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_core.c</name>
+            </file>
+            <file>
+              <name>Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ctlreq.c</name>
+            </file>
+            <file>
+              <name>Middlewares\ST\STM32_USB_Device_Library\Core\Src\usbd_ioreq.c</name>
+            </file>
+            <file>
+              <name>Middlewares\ST\STM32_USB_Device_Library\Class\MSC\Src\usbd_msc.c</name>
+            </file>
+            <file>
+              <name>Middlewares\ST\STM32_USB_Device_Library\Class\MSC\Src\usbd_msc_bot.c</name>
+            </file>
+            <file>
+              <name>Middlewares\ST\STM32_USB_Device_Library\Class\MSC\Src\usbd_msc_data.c</name>
+            </file>
+            <file>
+              <name>Middlewares\ST\STM32_USB_Device_Library\Class\MSC\Src\usbd_msc_scsi.c</name>
             </file>
           </group>
         </group>
@@ -678,6 +715,15 @@
                 </group>
               </group>
               <group>
+                <name>USB_DEVICE</name>
+                <group>
+                  <name>Target</name>
+                  <file>
+                    <name>CM7\USB_DEVICE\Target\usbd_conf.c</name>
+                  </file>
+                </group>
+              </group>
+              <group>
                 <name>TouchGFX</name>
                 <group>
                   <name>target</name>
@@ -711,6 +757,21 @@
                       <name>CM7\TouchGFX\target\generated\OSWrappers.cpp</name>
                     </file>
                   </group>
+                </group>
+              </group>
+              <group>
+                <name>USB_DEVICE</name>
+                <group>
+                  <name>App</name>
+                  <file>
+                    <name>CM7\USB_DEVICE\App\usb_device.c</name>
+                  </file>
+                  <file>
+                    <name>CM7\USB_DEVICE\App\usbd_desc.c</name>
+                  </file>
+                  <file>
+                    <name>CM7\USB_DEVICE\App\usbd_storage_if.c</name>
+                  </file>
                 </group>
               </group>
               <group>
