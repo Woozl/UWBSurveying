@@ -74,9 +74,17 @@ Screen1ViewBase::Screen1ViewBase() :
     newValButton.setPosition(16, 12, 69, 47);
     txInfoContainer.add(newValButton);
 
-    sendValTextArea.setPosition(95, 26, 79, 19);
+    valBackgoundBox.setPosition(89, 20, 85, 31);
+    valBackgoundBox.setColor(touchgfx::Color::getColorFromRGB(255, 255, 255));
+    valBackgoundBox.setBorderColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
+    valBackgoundBox.setBorderSize(3);
+    txInfoContainer.add(valBackgoundBox);
+
+    sendValTextArea.setPosition(95, 27, 73, 17);
     sendValTextArea.setColor(touchgfx::Color::getColorFromRGB(0, 0, 0));
     sendValTextArea.setLinespacing(0);
+    sendValTextAreaBuffer[0] = 0;
+    sendValTextArea.setWildcard(sendValTextAreaBuffer);
     sendValTextArea.setTypedText(touchgfx::TypedText(T___SINGLEUSE_NA10));
     txInfoContainer.add(sendValTextArea);
 

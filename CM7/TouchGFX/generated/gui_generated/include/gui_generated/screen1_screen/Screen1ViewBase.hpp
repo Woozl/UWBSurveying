@@ -41,7 +41,14 @@ protected:
     touchgfx::BoxWithBorder txInfoBackgroundBox;
     touchgfx::TextButtonStyle< touchgfx::BoxWithBorderButtonStyle< touchgfx::ClickButtonTrigger > > sendValButton;
     touchgfx::TextButtonStyle< touchgfx::BoxWithBorderButtonStyle< touchgfx::ClickButtonTrigger > > newValButton;
+    touchgfx::BoxWithBorder valBackgoundBox;
     touchgfx::TextAreaWithOneWildcard sendValTextArea;
+
+    /*
+     * Wildcard Buffers
+     */
+    static const uint16_t SENDVALTEXTAREA_SIZE = 16;
+    touchgfx::Unicode::UnicodeChar sendValTextAreaBuffer[SENDVALTEXTAREA_SIZE];
 
 private:
 

@@ -285,15 +285,32 @@
                 ]
               },
               {
+                "Type": "BoxWithBorder",
+                "Name": "valBackgoundBox",
+                "X": 89,
+                "Y": 20,
+                "Width": 85,
+                "Height": 31,
+                "Color": {
+                  "Red": 255,
+                  "Green": 255,
+                  "Blue": 255
+                },
+                "BorderSize": 3
+              },
+              {
                 "Type": "TextArea",
                 "Name": "sendValTextArea",
                 "X": 95,
-                "Y": 26,
-                "Width": 79,
-                "Height": 19,
+                "Y": 27,
+                "Width": 73,
+                "Height": 17,
                 "TextId": "__SingleUse_NA10",
                 "TextRotation": "0",
-                "Wildcard1": {}
+                "Wildcard1": {
+                  "UseBuffer": true,
+                  "BufferSize": 16
+                }
               }
             ]
           }
