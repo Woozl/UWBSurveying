@@ -63,10 +63,12 @@
   */
 
 #define STORAGE_LUN_NBR                  1
-#define STORAGE_BLK_NBR                  0x10000
+#define STORAGE_BLK_NBR                  200
 #define STORAGE_BLK_SIZ                  0x200
 
 /* USER CODE BEGIN PRIVATE_DEFINES */
+
+uint8_t buffer[STORAGE_BLK_NBR * STORAGE_BLK_SIZ]; // 128 * 512 bits = 8kb buffer
 
 /* USER CODE END PRIVATE_DEFINES */
 
@@ -229,6 +231,7 @@ int8_t STORAGE_IsWriteProtected_FS(uint8_t lun)
 int8_t STORAGE_Read_FS(uint8_t lun, uint8_t *buf, uint32_t blk_addr, uint16_t blk_len)
 {
   /* USER CODE BEGIN 6 */
+	memcpy(buf, &buffer[blk_addr*STORAGE_BLK_SIZ], blk_len*STORAGE_BLK_SIZ);
   return (USBD_OK);
   /* USER CODE END 6 */
 }
@@ -241,6 +244,7 @@ int8_t STORAGE_Read_FS(uint8_t lun, uint8_t *buf, uint32_t blk_addr, uint16_t bl
 int8_t STORAGE_Write_FS(uint8_t lun, uint8_t *buf, uint32_t blk_addr, uint16_t blk_len)
 {
   /* USER CODE BEGIN 7 */
+	memcpy(&buffer[blk_addr*STORAGE_BLK_SIZ], buf, blk_len*STORAGE_BLK_SIZ);
   return (USBD_OK);
   /* USER CODE END 7 */
 }
