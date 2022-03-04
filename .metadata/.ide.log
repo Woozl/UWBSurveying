@@ -7295,3 +7295,7 @@ java.util.ConcurrentModificationException
 2022-02-28 12:35:58,474 [INFO] ProjectBuilder:3832 - Time for Generating toolchain IDE Files: 5850mS.
 2022-02-28 12:35:58,475 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 1mS.
 2022-02-28 12:35:58,481 [INFO] ProjectBuilder:2461 - Time for Copy CMSIS : 0mS.
+2022-02-28 21:31:03,184 [WARN] IP:367 - Request for DSIHOST not yet added in STM32CubeMX or not available for this CPN
+2022-02-28 21:31:03,185 [WARN] IP:367 - Request for DSIHOST not yet added in STM32CubeMX or not available for this CPN
+2022-02-28 21:31:16,351 [WARN] IpParametersView:144 - Warning: This peripheral hasn't parameters
+2022-02-28 21:31:16,480 [WARN] IpParametersView:144 - Warning: This peripheral hasn't parameters
