@@ -224,3 +224,17 @@ arm-none-eabi-size   stm32h745i_disco_CM7.elf
  221776	    700	 160000	 382476	  5d60c	stm32h745i_disco_CM7.elf
 Finished building: default.size.stdout
  
+13:27:40 **** Incremental Build of configuration Debug for project stm32h745i_disco_CM4 ****
+make -j12 all 
+arm-none-eabi-size   stm32h745i_disco_CM4.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3136	     24	   1568	   4728	   1278	stm32h745i_disco_CM4.elf
+Finished building: default.size.stdout
+ 
+13:28:18 **** Incremental Build of configuration Debug for project stm32h745i_disco_CM7 ****
+make -j12 all 
+arm-none-eabi-size   stm32h745i_disco_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 221776	    700	 160000	 382476	  5d60c	stm32h745i_disco_CM7.elf
+Finished building: default.size.stdout
+ 

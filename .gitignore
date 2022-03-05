@@ -1,5 +1,5 @@
 # Object files
-*.o
+# *.o
 # *.ko
 # *.obj
 # *.elf
@@ -39,7 +39,7 @@
 .vscode/
 
 # Vagrant directory
-.vagrant/
+# .vagrant/
 
 # Include makefiles
 # !Makefile
